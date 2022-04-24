@@ -3,11 +3,12 @@
 [![Build Status](../../actions/workflows/classroom.yml/badge.svg)](../../actions/workflows/classroom.yml)
 ![Points bar](../../blob/badges/.github/badges/points-bar.svg)
 
+
 ## 1. Информация о студенте
 
-**Номер группы**: 00-000
+**Номер группы**: 11-109
 
-**Фамилия и Имя**: Иванов Иван
+**Фамилия и Имя**: Жирухин Илья
 
 ## 2. Описание задания
 

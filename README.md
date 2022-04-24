@@ -3,6 +3,7 @@
 [![Build Status](../../actions/workflows/classroom.yml/badge.svg)](../../actions/workflows/classroom.yml)
 ![Points bar](../../blob/badges/.github/badges/points-bar.svg)
 
+
 ## 1. Информация о студенте
 
 **Номер группы**: 11-109

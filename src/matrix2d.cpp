@@ -17,6 +17,7 @@ namespace assignment {
     return res;
   }
 
+
   Matrix2x2 matrix_power(Matrix2x2 matrix, int power) {
 
     Matrix2x2 res = IdentityMatrix;
